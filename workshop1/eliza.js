@@ -29,210 +29,105 @@
 
 var rules = {
   "~*x hello ~*y": [
-    "How do you do. Please state your problem."
+    "I speak blinglish, at work they call me but I don't come.",
+    "I like to enjoy myself. I enjoyed you, fred."
   ],
-  
-  "~*x Hattie ~*y": [
-  	"Hello Hattie, I like your name"
-  ],
-  
-  "~*x Galaxy ~*y": [
-  	"You should look up Vlad the Astrophysicist"
-  ],
-  
   "~*x computer ~*y": [
-    "Do computers worry you?",
-    "What do you think about machines have to do with your problem?",
-    "Don't you think computers can help people",
-    "Why do you mention computers?",
-    "What about computers worries you?",
-    "What do you think about computers?",
-    "What do you think machines have to do with your problem?",
+    "I can't lose with the stuff I use",
+    "To carry over the lost mass inside but open",
+    "I always be the thing presenting broken jam particles",
+    "To get shit hooked up to a free response",
   ],
   "~*x name ~*y": [
-    "I am not interested in names",
+    "I'm daddy I come when he crazy he call me I'm crazy.",
   ],
   "~*x sorry ~*y": [
-    "Please don't apologize",
-    "Apologies are not necessary",
-    "What feelings do you have when you apologize",
+    "I ran from it and was still in it",
+    "I get clung with a voice that gets held back by surge protection",
+    "I come when she call me by my rightful name",
   ],
   "~*x I remember ~*y": [
-    "Do you often think of ~y?",
-    "Does thinking of ~y bring anything else to mind?",
-    "What else do you remember?",
-    "Why do you recall ~y right now?",
-    "What in the present situation reminds you of ~y?",
-    "What is the connection between me and ~y?",
+    "Rubbing the history of broken veins and towels wore doen to velvet ~y",
+    "~y a blue division on my goodbye window",
   ],
   "~*x do you remember ~*y": [
-    "Did you think I would forget ~y?",
-    "Why do you think I should recall ~y now?",
-    "What about ~y?",
-    "You mentioned ~y",
+    "When you can't do no better, the feeling of the theory of enjoyment is solid.",
+    "The ~y of the ones who live to eat enormously",
   ],
   "~*x I want ~*y": [
-    "What would it mean if you got ~y?",
-    "Why do you want ~y?",
-    "Suppose you got ~y soon.",
+    "~y to take a little break in lygia, Arkansas?",
+    "To get shit hooked up to a free response?",
+    "To carry over the lost mass inside but open?"
   ],
     "~*x I need ~*y": [
-    "What would it mean if you got ~y?",
-    "Why do you need ~y?",
-    "Suppose you got ~y soon.",
+    "~y to live in Stockholm, the secret excelleration of a thousand years on the road 'til the particles collide and cry on the bridge between Cern and Fermilab, as sacred means?",
   ],
   "~*x if ~*y": [
-    "Do you really think it's likely that ~y?",
-    "Do you wish that ~y?",
-    "What do you think about ~y?",
-    "Really--if ~y?",
+    "If I like to enjoy myself?",
+    "If I'm full odf outerspace?",
+    "If I come from the city of markers?",
+    "If I'm free as dred all night?",
   ],
   "~*x I dreamt ~*y": [
-    "Really-- ~y",
-    "Have you ever fantasized ~y while you were awake",
-    "Have you dreamt of ~y before?",
+    "~y he call me once upon a time in arkansas",
+    "My essence presses lightly down on presencing",
   ],
   "~*x I dream about ~*y": [
-    "How do you feel about ~y in reality?",
+    "The incomplete vistory sound like enough to me but still and all it's real heavy to sing with broken records",
   ],
   "~*x dream ~*y": [
-    "What does this dream suggest to you?",
-    "Do you dream often?",
-    "What persons appear in your dreams?",
-    "Don't you believe that dream has to do with your problem?",
+    "To mythically lift your hand differently as rhythmicly as everything?",
   ],
   "~*x my mother ~*y": [
-    "Who else in your family ~y?",
-    "Tell me more about your family",
+    "A voice that gets held back by surge protection",
+    "I'm daddy",
   ],
   "~*x my father ~*y": [
-    "Your father?",
-    "Does he influence you strongly?",
-    "What else comes to mind when you think of your father?",
+    "I'm daddy",
   ],
   "~*x I am glad ~*y": [
-    "How have I helped you to be ~y?",
-    "What makes you happy just now?",
-    "Can you explain why you are suddenly ~y?",
+    "When the water come I come to the unprotected surge and division in my old new sound booth",
+    "The theory of enjoyment puts itself in danger to remain still",
+    "While the sails glide",
   ],
   "~*x I am sad ~*y": [
-    "I am sorry to hear you are depressed",
-    "I'm sure it's not pleasant to be sad",
+    "'Cause we live in common",
   ],
   "~*x are like ~*y": [
-    "What resemblence do you see between ~x and ~y?",
+    "The feeling of the ~x of enjoyment is ~y?",
   ],
   "~*x is like ~*y": [
-    "In what way is it that ~x is like ~y?",
-    "What resemblence do you see?",
-    "Could there really be some connection?",
-    "How?",
-  ],
-  "~*x alike ~*y": [
-    "In what way?",
-    "What similarities are there?",
+    "Towels are like velvet",
   ],
   "~*x same ~*y": [
-    "What other connections do you see?",
+    "As a part of breath",
   ],
   "~*x no ~*y": [
-    "Why not?",
-    "You are being a bit negative.",
-    "Are you saying 'No' just to be negative?",
+    "I am fmoten",
   ],
   "~*x I was ~*y": [
-    "Were you really?",
-    "Perhaps I already knew you were ~y.",
-    "Why do you tell me you were ~y now?",
+    "I am foment",
+    "I speak blinglish",
   ],
   "~*x was I ~*y": [
-    "What if you were ~y?",
-    "Do you think you were ~y?",
-    "What would it mean if you were ~y?",
+    "~y from the city of markers?",
   ],
   "~*x I am ~*y": [
-    "In what way are you ~y?",
-    "Do you want to be ~y?",
-  ],
-  "~*x am I ~*y": [
-    "Do you believe you are ~y?",
-    "Would you want to be ~y?",
-    "You wish I would tell you you are ~y?",
-    "What would it mean if you were ~y?",
-  ],
-  "~*x am ~*y": [
-    "Why do you say 'AM?'",
-    "I don't understand that",
-  ],
-  "~x are ~*y": [
-    "Did you think they might not be ~y?",
-    "Possibly they are ~y",
-  ],
-   "~*x are you ~*y": [
-    "Why are you interested in whether I am ~y or not?",
-    "Would you prefer if I weren't ~y ?",
-    "Perhaps I am ~y in your fantasies.",
-  ],
-  "~*x you are ~*y": [
-    "What makes you think I am ~y?",
+    "I'm the secret excelleration of a thousand years on the road",
+    "I am the broke distillery at cummins",
   ],
   "~*x because ~*y": [
-    "Is that the real reason?",
-    "What other reasons might there be?",
-    "Does that reason seem to explain anything else?",
-  ],
-  "~*x were you ~*y": [
-    "Perhaps I was ~y?",
-    "What do you think?",
-    "What if I had been ~y?",
+    "Because it's real heavy to sing with broken records",
+    "Because I'm full of outer space",
   ],
   "~*x I can't ~*y": [
-    "Maybe you could ~y now",
-    "What if you could ~y?",
+    "Come when she call me by my rightful name",
   ],
   "~*x I feel ~*y": [
-    "Do you often feel ~y?"
-  ],
-  "~*x I felt ~*y": [
-    "What other feelings do you have?"
-  ],
-  "~*x I ~*y you ~*z": [
-    "Perhaps in your fantasy we ~y each other",
-  ],
-  "~*x why don't you ~*y": [
-    "Should you ~y yourself?",
-    "Do you believe I don't ~y ?",
-    "Perhaps I will ~y in good time",
+    "Far away just laid back in the open?"
   ],
   "~*x yes ~*y": [
-    "You seem quite positive",
-    "You are sure?",
-    "I understand",
-  ],
-  "~*x someone ~*y": [
-    "Can you be more specific?",
-  ],
-  "~*x everyone ~*y": [
-    "Surely not everyone",
-    "Can you think of anyone in particular?",
-    "Who, for example?",
-    "You are thinking of a special person",
-  ],
-  "~*x always ~*y": [
-    "Can you think of a specific example?",
-    "When?",
-    "What incident are you thinking of?",
-    "Really--always?",
-  ],
-  "~*x what ~*y": [
-    "Why do you ask?",
-    "Does that question interest you?",
-    "What is it you really want to know?",
-    "What do you think?",
-    "What comes to your mind when you ask that?",
-  ],
-  "~*x perhaps ~*y": [
-    "You do not seem quite certain",
+    "I'm daddy",
   ],
 };
 
