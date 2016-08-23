@@ -28,55 +28,55 @@
  */
 
 var rules = {
-  "~*x hello ~*y": [
+  "~*x The lone observer sees, but speaks not ~*y": [
     "I speak blinglish, at work they call me but I don't come.",
     "I like to enjoy myself. I enjoyed you, fred."
   ],
-  "~*x computer ~*y": [
+  "~*x An empty head, a dead end thread ~*y": [
     "I can't lose with the stuff I use",
     "To carry over the lost mass inside but open",
     "I always be the thing presenting broken jam particles",
     "To get shit hooked up to a free response",
   ],
-  "~*x name ~*y": [
+  "~*x This anxiety that has filled me up ~*y": [
     "I'm daddy I come when he crazy he call me I'm crazy.",
   ],
-  "~*x sorry ~*y": [
+  "~*x spindle fingers clacking through the time you have left ~*y": [
     "I ran from it and was still in it",
     "I get clung with a voice that gets held back by surge protection",
     "I come when she call me by my rightful name",
   ],
-  "~*x I remember ~*y": [
+  "~*x Circles are trivial things ~*y": [
     "Rubbing the history of broken veins and towels wore doen to velvet ~y",
     "~y a blue division on my goodbye window",
   ],
-  "~*x do you remember ~*y": [
+  "~*x A static screen, metal man machine ~*y": [
     "When you can't do no better, the feeling of the theory of enjoyment is solid.",
     "The ~y of the ones who live to eat enormously",
   ],
-  "~*x I want ~*y": [
+  "~*x I feel myself shaking but can not see the actual moment ~*y": [
     "~y to take a little break in lygia, Arkansas?",
     "To get shit hooked up to a free response?",
     "To carry over the lost mass inside but open?"
   ],
-    "~*x I need ~*y": [
+    "~*x You think if you could sink your palms in, it would tear around your fingers like satin ~*y": [
     "~y to live in Stockholm, the secret excelleration of a thousand years on the road 'til the particles collide and cry on the bridge between Cern and Fermilab, as sacred means?",
   ],
-  "~*x if ~*y": [
+  "~*x If he is on the outskirts what skirts are we on? ~*y": [
     "If I like to enjoy myself?",
     "If I'm full odf outerspace?",
     "If I come from the city of markers?",
     "If I'm free as dred all night?",
   ],
-  "~*x I dreamt ~*y": [
+  "~*x The room sounds cold, do his ears instead crave rock and role? ~*y": [
     "~y he call me once upon a time in arkansas",
     "My essence presses lightly down on presencing",
   ],
-  "~*x I dream about ~*y": [
+  "~*x Maybe I should have held that position longer. ~*y": [
     "The incomplete vistory sound like enough to me but still and all it's real heavy to sing with broken records",
   ],
-  "~*x dream ~*y": [
-    "To mythically lift your hand differently as rhythmicly as everything?",
+  "~*x Your clock is a glass dome, paper thin and welded shut ~*y": [
+    "To mythically lift your hand differently as rhythmicly as everything",
   ],
   "~*x my mother ~*y": [
     "A voice that gets held back by surge protection",
