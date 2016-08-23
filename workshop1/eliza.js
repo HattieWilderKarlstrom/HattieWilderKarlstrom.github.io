@@ -131,6 +131,13 @@ var rules = {
   ],
 };
 
+var default_responses = [
+	"I carry particles from market to market.",
+	"My essence presses lightly.",
+	"Enjoyment puts itself in danger to remain still.",
+	"I ran from it and was still in it.",
+];
+
 function choice(lst) {
   var i = Math.floor(Math.random() * lst.length);
   return lst[i];
