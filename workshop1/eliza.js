@@ -131,15 +131,6 @@ var rules = {
   ],
 };
 
-var default_responses = [
-  "Very interesting",
-  "I am not sure I understand you fully",
-  "What does that suggest to you?",
-  "Please continue",
-  "Go on",
-  "Do you feel strongly about discussing such things?",
-];
-
 function choice(lst) {
   var i = Math.floor(Math.random() * lst.length);
   return lst[i];
